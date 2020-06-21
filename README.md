@@ -4,6 +4,8 @@
 
 Remote Garage works upon the concept of gurudakshna(Donation to Teacher). which allows anyone to learn the most demanding Technologies and prepares you to work with the open source community across globe with zero Investment.
 
+The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on cloud native technology. There is also a wealth of information on interview prep and applying to jobs.
+
 ### Table of Contents
 1. **[Start Here](#start-here)**
 2. **[Pre-request](/pre-request/pre-request.md)**
@@ -24,8 +26,9 @@ Remote Garage works upon the concept of gurudakshna(Donation to Teacher). which 
 18. **[NoSQL](#nosql)**
 19. **[Cache](#cache)**
 20. **[Docker](#docker)**
-21. **[Kubernetes (CKAD)](#kubernetes)**
-22. **[Kubernetes (CKA)](#kubernetes-cka)**
-23. **[Public CLoud](#public-cloud)**
-24. **[Remotegarage Basecamps](#remotegarage)**
-25. **[Jobs](#jobs)**
+21. **[Devops](#devops)**
+22. **[Kubernetes (CKAD)](#kubernetes)**
+23. **[Kubernetes (CKA)](#kubernetes-cka)**
+24. **[Public CLoud](#public-cloud)**
+25. **[Remotegarage Basecamps](#remotegarage)**
+26. **[Jobs](#jobs)**
