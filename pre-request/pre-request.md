@@ -1,7 +1,7 @@
 # Pre request
 
 ### Table of Contents
-1. **[Dev Setup Guide](#dev-setup)**
+1. **[Computer](#computer)**
 2. **[Install Linux](#install-linux)**
 3. **[Linux Basic](#linux-basics)**
 4. **[Git](#git)**
@@ -12,11 +12,11 @@
 
 Note : If you don't have laptop and you are curious about learning computers. Contact Us, Lets put smile in millions faces together.
 
-### Laptops 
+### Computer 
 
 1. Macbook Pro/Air 
 2. Any brand Laptop works fine
-2. [Raspberry PI] (https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
+2. [Raspberry PI](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
 
 ### Install Linux
 
