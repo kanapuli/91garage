@@ -27,3 +27,5 @@ Remote Garage works upon the concept of gurudakshna(Donation to Teacher). which 
 21. **[Kubernetes (CKAD)](#kubernetes)**
 22. **[Kubernetes (CKA)](#kubernetes-cka)**
 23. **[Public CLoud](#public-cloud)**
+24. **[Remotegarage Basecamps](#remotegarage)**
+25. **[Jobs](#jobs)**
