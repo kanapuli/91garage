@@ -6,8 +6,8 @@ Remote Garage works upon the concept of gurudakshna(Donation to Teacher). which 
 
 ### Table of Contents
 1. **[Start Here](#start-here)**
-2. **[Pre-request](#pre-request)**
-3. **[Computer History](#computer-history)**
+2. **[Pre-request](/pre-request/pre-request.md)**
+3. **[Computer History](/computer-history/computer-history.md)**
 4. **[Golang Basics](#golang-basic)**
 5. **[Golang Proverb](#golang-proverb)**
 6. **[Computer Fundamentals](#computer-fundamental)**
