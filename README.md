@@ -8,8 +8,8 @@ The list below isn't meant to be exclusive, it's more so a collection of links t
 
 ### Table of Contents
 1. **[Start Here](#start-here)**
-2. **[Pre-request](/pre-request/pre-request.md)**
-3. **[Computer History](/computer-history/computer-history.md)**
+2. **[Computer History](/computer-history/computer-history.md)**
+3. **[Pre-request](/pre-request/pre-request.md)**
 4. **[Golang Basics](#golang-basic)**
 5. **[Golang Proverb](#golang-proverb)**
 6. **[Computer Fundamentals](#computer-fundamental)**
