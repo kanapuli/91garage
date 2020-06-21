@@ -34,7 +34,7 @@ Note : If you don't have laptop and you are curious about learning computers. Co
 5. [Lecture 3: Editors (vim) (2020)](https://www.youtube.com/watch?v=a6Q8Na575qc)
 6. [Lecture 4: Data Wrangling (2020)](https://www.youtube.com/watch?v=sz_dsktIjt4&t=5s)
 7. [Lecture 5: Command-line Environment (2020)](https://www.youtube.com/watch?v=e8BO_dYxk5c&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J&index=5) 
-8  [Practical Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)
+8.  [Practical Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)
 
 ### Git
 
