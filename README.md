@@ -29,6 +29,6 @@ The list below isn't meant to be exclusive, it's more so a collection of links t
 21. **[Devops](#devops)**
 22. **[Kubernetes (CKAD)](#kubernetes)**
 23. **[Kubernetes (CKA)](#kubernetes-cka)**
-24. **[Public CLoud](#public-cloud)**
+24. **[Public Cloud](#public-cloud)**
 25. **[Remotegarage Basecamps](#remotegarage)**
 26. **[Jobs](#jobs)**
